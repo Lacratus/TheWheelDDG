@@ -1,0 +1,5 @@
+name: TheWheelPlugin
+version: 1.0
+main: be.live.jonas2000.TheWheelDDG.main.Main
+commands:
+  wheel:
